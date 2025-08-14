@@ -81,8 +81,7 @@ Below are some key visualizations generated from the data:
 ![Age Distribution](age.png)
 
 **Average Weight by Nationality**  
-![Average Weight by Nationality](average_weight_by_nationality.png)
-
+![Average weight by Nationality](average weight by nationality.png)
 **Potential Distribution**  
 ![Potential Distribution](potential.png)
 
