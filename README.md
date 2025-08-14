@@ -77,13 +77,13 @@ Lionel Messi → Paris Saint-Germain → Ligue 1
 
 Below are some key visualizations generated from the data:
 
-**Age Distribution**
+**Age Distribution**  
 ![Age Distribution](age.png)
 
-**Average Weight by Nationality**
-![Average Weight by Nationality](average weight by nationality.png)
+**Average Weight by Nationality**  
+![Average Weight by Nationality](average_weight_by_nationality.png)
 
-**Potential Distribution**
+**Potential Distribution**  
 ![Potential Distribution](potential.png)
 
 ## Contributing
@@ -92,7 +92,3 @@ Below are some key visualizations generated from the data:
 2. Create a new branch (`git checkout -b feature/your-feature`).
 3. Commit your changes.
 4. Push to the branch and open a pull request.
-
-## License
-
-# FIFA21
